@@ -24,12 +24,12 @@ Each section contains notes about a certain topic, like HTML, CSS, JavaScript, G
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 Testing
-    ```md
+md
     ![screenshot1](prework-study-guide/prework-study-guide/assets/assets/Images/Screenshot (1).png)
-    ```
-    ```md
+
+md
     ![screenshot2](prework-study-guide/prework-study-guide/assets/assets/Images/Screenshot (2).png)
-    ```
+
 
 ## Credits
 
