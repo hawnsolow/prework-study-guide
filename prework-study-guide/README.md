@@ -18,4 +18,4 @@ N/A
 
 ## License
 
-Please refer to the LICENSE in the repo.git 
+  Please refer to the LICENSE in the repo.
